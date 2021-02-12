@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactColorsProject/static/css/main.f1918d78.chunk.css",
+    "main.js": "/ReactColorsProject/static/js/main.e90bade7.chunk.js",
+    "main.js.map": "/ReactColorsProject/static/js/main.e90bade7.chunk.js.map",
+    "runtime-main.js": "/ReactColorsProject/static/js/runtime-main.b2656444.js",
+    "runtime-main.js.map": "/ReactColorsProject/static/js/runtime-main.b2656444.js.map",
+    "static/css/2.9be2e341.chunk.css": "/ReactColorsProject/static/css/2.9be2e341.chunk.css",
+    "static/js/2.0494528d.chunk.js": "/ReactColorsProject/static/js/2.0494528d.chunk.js",
+    "static/js/2.0494528d.chunk.js.map": "/ReactColorsProject/static/js/2.0494528d.chunk.js.map",
+    "static/js/3.748fb85a.chunk.js": "/ReactColorsProject/static/js/3.748fb85a.chunk.js",
+    "static/js/3.748fb85a.chunk.js.map": "/ReactColorsProject/static/js/3.748fb85a.chunk.js.map",
+    "index.html": "/ReactColorsProject/index.html",
+    "static/css/2.9be2e341.chunk.css.map": "/ReactColorsProject/static/css/2.9be2e341.chunk.css.map",
+    "static/css/main.f1918d78.chunk.css.map": "/ReactColorsProject/static/css/main.f1918d78.chunk.css.map",
+    "static/js/2.0494528d.chunk.js.LICENSE.txt": "/ReactColorsProject/static/js/2.0494528d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2656444.js",
+    "static/css/2.9be2e341.chunk.css",
+    "static/js/2.0494528d.chunk.js",
+    "static/css/main.f1918d78.chunk.css",
+    "static/js/main.e90bade7.chunk.js"
+  ]
+}
