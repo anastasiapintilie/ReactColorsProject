@@ -1,3 +1,6 @@
+Final result can be seen at this link http://anastasia.pintilie98.gitlab.io/react-color-app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
